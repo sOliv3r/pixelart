@@ -1,0 +1,167 @@
+* {
+padding: 0 0 0 0;
+margin: 0 0 0 0;
+}
+
+body {
+background-image:url('images/bg.jpg');
+}
+
+#title-header{
+height:100px;
+font-size:25;
+padding-top:50px;
+color:#B1DAE3;
+font-family:"Trebuchet MS", sans-serif;
+text-align:center;
+}
+
+#main{
+
+width:80%;
+height:100%;
+margin:0 auto;
+padding-top:10px;
+padding-bottom:25px;
+padding-right:50px;
+padding-left:50px;
+font-family:"Trebuchet MS", sans-serif;
+color:#1A405A;
+border:1px;
+border-color:black;
+border-style:solid;
+text-decoration: none;
+}
+
+#pic-frame{
+border-style:solid;
+border:2px;
+border-color:black;
+}
+#center-border{
+	width:1000px;
+    margin: 50px auto 0 auto;
+	
+}
+
+#center-page {
+width:897px;
+margin: 50px auto 0 auto;
+margin-bottom:0px;
+}
+
+#welcome_wrapper{
+border-bottom-width:1px;
+border-bottom-style:solid;
+margin-left:30px;
+margin-right:28px;
+border-bottom-color:#eeeeee;
+padding-top:10px;
+padding-bottom:10px;
+}
+#welcome_text{
+width:610px;
+}
+
+
+#right_part{
+float:left;
+background-image:url('images/button.png');
+height:56px;
+width:400px;
+padding-top:50px;
+text-align:right;
+}
+
+
+#right_part a{
+
+margin-right:20px;
+text-decoration: none;
+color:#666;
+
+
+}
+
+#right_part a:hover{
+	color:#666;
+
+}
+
+
+#right_part a+a{
+border-left-width:1px;
+border-left-style:solid;
+border-left-color:#eeeeee;
+padding-left:20px;
+}
+
+
+#heading {
+width: 469px;
+height: 106px;
+background-image:url('images/logo.png');
+float: left;
+border-radius: 10px 0px 0px 0px;
+-moz-border-radius: 10px 0px 0px 0px;
+
+}
+
+
+#heading_home {
+width: 100px;
+height: 106px;
+background-image:url('images/button.png');
+float: left;
+}
+
+#heading_product {
+width: 100px;
+height: 106px;
+background-image:url('images/button.png');
+float: left;
+}
+
+#heading_special {
+width: 100px;
+height: 106px;
+background-image:url('images/button.png');
+float: left;
+}
+
+#heading_contact {
+width: 100px;
+height: 106px;
+background-image:url('images/button.png');
+float: left;
+}
+
+#heading_center {
+width: 99px;
+height: 106px;
+line-height:99px;
+}
+
+#heading_spacer {
+width: 28px;
+height: 106px;
+background-image:url('images/spacer.png');
+float: right;
+border-radius: 0px 10px 0px 0px;
+-moz-border-radius: 0px 10px 0px 0px;
+}
+
+
+
+
+
+
+#footer {
+width: 897px;
+height: 95px;
+background-image:url(images/footer2011.png);
+float: left;
+margin-bottom:50px;
+border-radius: 0px 00px 10px 10px;
+-moz-border-radius: 0px 0px 10px 10px;
+}
